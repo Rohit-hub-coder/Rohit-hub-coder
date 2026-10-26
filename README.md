@@ -86,17 +86,8 @@ SaaS platform for video meetings with configurable AI agents, end-to-end type-sa
 <td width="50%" valign="top">
 
 #### 🛒 [ProShop](https://github.com/Rohit-hub-coder/proshop)
-Full-stack e-commerce app with cart, PayPal checkout, JWT cookie auth and an admin dashboard. *(Based on Brad Traversy's MERN course)*  
+Full-stack e-commerce app with cart, PayPal checkout, JWT cookie auth and an admin dashboard. (Built following [Brad Traversy's MERN eCommerce course](https://github.com/bradtraversy/proshop-v2))  
 `MERN` `Redux Toolkit` `PayPal`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-#### 📈 [Profit Profile](https://github.com/Rohit-hub-coder/profit-profile)
-MERN trading dashboard with session authentication and Chart.js / Material UI portfolio views.  
-`MongoDB` `Express` `React` `Node.js` `Chart.js`
 
 </td>
 </tr>

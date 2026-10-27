@@ -91,6 +91,15 @@ Full-stack e-commerce app with cart, PayPal checkout, JWT cookie auth and an adm
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### 📈 [Profit Profile](https://github.com/Rohit-hub-coder/profit-profile)
+MERN trading dashboard with session auth, email OTP and per-user portfolios. Based on a project by Satyam Pandey; hardened and tested by me.  
+`MongoDB` `Express` `React` `Node.js` `Jest`
+
+</td>
+</tr>
 </table>
 
 ## 📈 Activity & Stats Overview
